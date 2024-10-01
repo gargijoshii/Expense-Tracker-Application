@@ -1,0 +1,71 @@
+.filter{
+    box-shadow: 0 0 2px rgb(40, 39, 39);
+    padding: 15px 20px;
+    border-radius: 5px;
+    overflow-x:scroll;
+}
+
+.transaction-form label{
+
+    color: black !important;
+    
+}
+
+.transaction-form input{
+    border: 1px solid gray;
+    border-bottom: 1px solid gray;
+    box-shadow: none !important;
+
+}
+
+.transaction-form input:focus{
+    border: 1px solid gray;
+    border-bottom:1px solid gray  !important;
+    box-shadow: none !important;
+}
+
+.view-switch{
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 5px 10px;
+}
+
+.anticon svg{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.active-icon{
+    color: black;
+}
+
+.inactive-icon{
+    color: gray;
+}
+
+
+
+
+
+
+
+
+.ant-picker-range{
+    border: 1px solid rgba(138, 137, 137, 0.795);
+
+}
+
+@media screen and (max-width:600px){
+    .filter{
+        overflow-x: scroll;
+    }
+
+    
+
+}
+
+
+
+
+ 
+  

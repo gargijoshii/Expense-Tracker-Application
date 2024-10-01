@@ -1,0 +1,56 @@
+.register{
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-image: linear-gradient(to left, #333399 0%, #FF00CC 100%);
+
+}
+
+
+
+.lottie{
+    height: 500px;
+    position: relative;
+  top: -50px; 
+}
+
+.register input{
+    background-color: transparent  !important; 
+    border: none;
+    border-bottom: 1px solid white;
+    color:white;
+    font-weight: 500;
+    font-family: "Nunito", sans-serif;
+    
+
+}
+
+input:focus{
+    outline: none !important;
+    box-shadow: none !important;
+
+}
+
+label,a{
+
+    color: rgba(255, 255, 255, 0.973) !important;
+    font-family: "Nunito", sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+
+.register h1{
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    font-family: "Nunito", sans-serif;
+}
+
+
+.register label {
+  font-family: "Nunito", sans-serif;
+}
+
+
