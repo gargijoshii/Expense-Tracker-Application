@@ -4,6 +4,11 @@
 
 The **MERN (MongoDB, Express.js, React.js, Node.js)** Expense Tracker application enables users to monitor their day-to-day expenses and income. Users can securely log in to their accounts and manage their financial transactions by adding records for expenses and income, including details like description, category (such as food, travel, or entertainment), amount, and date. The application processes and stores this data to provide valuable insights through visual representations of income and expense trends.
 
+![resigter](images/register.png)
+![login](images/login.png)
+
+
+
 ## Features
 
 ### User Authentication
